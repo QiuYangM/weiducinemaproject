@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 	//报告，我把所有的注释清空了
-
+    //你是傻逼吧。你给删了干啥
 
 
     }
