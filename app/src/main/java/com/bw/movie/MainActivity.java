@@ -10,9 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //维度科技项目组测试一
-        //魏天祥今日上传代码
-        //我是张秋阳的爸爸
+        //今天是个好日子。
+
 
     }
 }
