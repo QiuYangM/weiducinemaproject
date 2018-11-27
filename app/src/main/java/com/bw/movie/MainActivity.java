@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //维度科技项目组测试一
+        //魏天祥今日上传代码
+
 
     }
 }
